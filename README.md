@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @theultimatesonka1999
-- 👀 I’m interested in VB.NET
+- 👀 I’m interested in VB.NET and C#
 - 📫 How to reach me :
 Discord: TheUltimateSonka#1477
 
